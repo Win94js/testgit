@@ -18,8 +18,13 @@ testing github
 
 test edit 
 <<<<<<< HEAD
+<<<<<<< HEAD
 test edit file
 =======
 test edit 2
 >>>>>>> 6697998 (Update with edit2)
 test edit 4
+=======
+test edit 2
+test edit 3
+>>>>>>> cff0690 (Test edit 3)
