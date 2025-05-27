@@ -17,4 +17,9 @@ testing github
 >>>>>>> d8d9fd47b79fe54a9e6b68e4381b7a92e1ab4ee5
 
 test edit 
+<<<<<<< HEAD
 test edit file
+=======
+test edit 2
+>>>>>>> 6697998 (Update with edit2)
+test edit 4
