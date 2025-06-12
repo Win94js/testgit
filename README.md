@@ -29,4 +29,7 @@ test edit 2
 test edit 3
 >>>>>>> cff0690 (Test edit 3)
 
-test edit 5
+test edit 5 (Test edit 6)
+
+
+console.log("hello world with testing update repo")
